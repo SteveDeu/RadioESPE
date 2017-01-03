@@ -4,9 +4,6 @@ Radio ESPE
 En este repositorio se encontraran los siguientes archivos
 +Versiones
 
-Versiones
---------------------
-
 Version 1
 ----------
 
