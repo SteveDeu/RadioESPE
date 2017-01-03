@@ -3,9 +3,13 @@ Radio ESPE
 
 Por Completar
 -------------
+- [ ] Habilitar el envio de peticiones a Radio ESPE.
+
+Completado
+-------------
 - [x] Crear módulos de informacion,radio online, peticiones.
 - [x] Habilitar la conexión con el servidor de streaming de Radio ESPE.
-- [ ] Habilitar el envio de peticiones a Radio ESPE.
+
 
 Version 2
 ----------
