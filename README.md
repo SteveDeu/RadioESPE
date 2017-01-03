@@ -1,8 +1,15 @@
 Radio ESPE
 ==========
 
-En este repositorio se encontraran los siguientes archivos
-+ Versiones
+Por Completar
+-------------
+- [x] Crear módulos de informacion,radio online, peticiones.
+- [x] Habilitar la conexión con el servidor de streaming de Radio ESPE.
+- [ ] Habilitar el envio de peticiones a Radio ESPE.
+
+Version 2
+----------
++ Módulo Radio Online: Se habilitó la opcion de conectarse con el stremaing de Radio ESPE.
 
 Version 1
 ----------
@@ -11,6 +18,5 @@ Version 1
 + Módulo de Radio Online: En el que se podrá enlazar con el streaming de Radio ESPE
 + Módulo de Peticiones: En el que solo se encuentra habilitada la interfaz.
 
-Version 2
-----------
-+ Módulo Radio Online: Se habilitó la opcion de conectarse con el stremaing de Radio ESPE.
+
+
