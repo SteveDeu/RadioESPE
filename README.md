@@ -2,7 +2,7 @@ Radio ESPE
 ==========
 
 En este repositorio se encontraran los siguientes archivos
-+Versiones
++ Versiones
 
 Version 1
 ----------
@@ -13,4 +13,4 @@ Version 1
 
 Version 2
 ----------
-+Módulo Radio Online: Se habilitó la opcion de conectarse con el stremaing de Radio ESPE.
++ Módulo Radio Online: Se habilitó la opcion de conectarse con el stremaing de Radio ESPE.
