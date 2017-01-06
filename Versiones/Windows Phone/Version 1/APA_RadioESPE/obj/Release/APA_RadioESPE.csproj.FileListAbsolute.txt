@@ -1,0 +1,4 @@
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\APA_RadioESPE\Bin\Release\APA_RadioESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\APA_RadioESPE\Bin\Release\APA_RadioESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\APA_RadioESPE\obj\Release\APA_RadioESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\APA_RadioESPE\obj\Release\APA_RadioESPE.pdb

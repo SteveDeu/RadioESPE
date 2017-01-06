@@ -1,0 +1,15 @@
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\Radio ESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\Radio ESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\AppManifest.xaml
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\Radio_ESPE_Release_AnyCPU.xap
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\APA_RadioESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Release\APA_RadioESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio ESPE.csprojResolveAssemblyReference.cache
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\App.g.cs
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\MainPage.g.cs
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio ESPE.g.resources
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio_ESPE.Resources.AppResources.resources
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio ESPE.csproj.GenerateResource.Cache
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio ESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\Radio ESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Release\XapCacheFile.xml

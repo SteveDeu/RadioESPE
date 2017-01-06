@@ -1,0 +1,15 @@
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\Radio ESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\Radio ESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\AppManifest.xaml
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\Radio_ESPE_Debug_AnyCPU.xap
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\App.g.cs
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\MainPage.g.cs
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio ESPE.g.resources
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio_ESPE.Resources.AppResources.resources
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio ESPE.csproj.GenerateResource.Cache
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio ESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio ESPE.pdb
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\XapCacheFile.xml
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\obj\Debug\Radio ESPE.csprojResolveAssemblyReference.cache
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\APA_RadioESPE.dll
+C:\Users\BMiguel\Desktop\WinPhoneApp\Radio ESPE\Radio ESPE\Bin\Debug\APA_RadioESPE.pdb

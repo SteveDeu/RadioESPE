@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio ESPE", "Radio ESPE\Radio ESPE.csproj", "{58CB6490-BAB4-42B9-AA98-0143C428EA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APA_RadioESPE", "APA_RadioESPE\APA_RadioESPE.csproj", "{642E6944-D807-4861-BFF8-1A0C8553012D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|ARM.ActiveCfg = Debug|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|ARM.Build.0 = Debug|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|ARM.Deploy.0 = Debug|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|x86.ActiveCfg = Debug|x86
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|x86.Build.0 = Debug|x86
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Debug|x86.Deploy.0 = Debug|x86
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|ARM.ActiveCfg = Release|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|ARM.Build.0 = Release|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|ARM.Deploy.0 = Release|ARM
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|x86.ActiveCfg = Release|x86
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|x86.Build.0 = Release|x86
+		{58CB6490-BAB4-42B9-AA98-0143C428EA17}.Release|x86.Deploy.0 = Release|x86
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|ARM.Build.0 = Debug|ARM
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|x86.ActiveCfg = Debug|x86
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Debug|x86.Build.0 = Debug|x86
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|ARM.ActiveCfg = Release|ARM
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|ARM.Build.0 = Release|ARM
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|x86.ActiveCfg = Release|x86
+		{642E6944-D807-4861-BFF8-1A0C8553012D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
